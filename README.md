@@ -9,6 +9,7 @@ Pones precio, costo, flete, contraentrega, presupuesto de anuncios y calificas e
 - Curva de utilidad (pesimista / típica / optimista) y mapa animado de la sociedad
 - Quién compra (edad y estrato), "voces" de los agentes y diagnóstico
 - Precio óptimo y comparativa de productos guardados
+- Buscador con IA (al abrirlo en claude.ai): describe qué buscas y Claude propone productos con sus datos estimados; el simulador los evalúa y los ordena
 - Ofertas: precio por 2 y 3 unidades y producto adicional (upsell), con ticket promedio y margen por pedido
 - Aprende de tus ventas reales: anotas los resultados de tus pruebas y corrige sus predicciones para los siguientes productos
 
