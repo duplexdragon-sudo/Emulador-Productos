@@ -8,7 +8,7 @@ Pones precio, costo, flete, contraentrega, presupuesto de anuncios y calificas e
 - CPA esperado vs. CPA de equilibrio, ROAS, pedidos, ventas por voz a voz
 - Curva de utilidad (pesimista / típica / optimista) y mapa animado de la sociedad
 - Quién compra (edad y estrato), "voces" de los agentes y diagnóstico
-- Precio óptimo y comparativa de productos guardados
+- Precio óptimo, cuánto invertir en publicidad (prueba, presupuesto recomendado, capital necesario y reglas para escalar o apagar) y comparativa de productos guardados
 - Buscador de productos ganadores con IA (al abrirlo en claude.ai), con búsqueda web real si conectas Parallel Search o Exa en claude.ai; prueba varios precios y combo y solo muestra los ganadores
 - Ofertas: precio por 2 y 3 unidades y producto adicional (upsell), con ticket promedio y margen por pedido
 - Aprende de tus ventas reales: anotas los resultados de tus pruebas y corrige sus predicciones para los siguientes productos
