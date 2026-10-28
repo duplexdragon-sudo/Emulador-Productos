@@ -9,7 +9,7 @@ Pones precio, costo, flete, contraentrega, presupuesto de anuncios y calificas e
 - Curva de utilidad (pesimista / típica / optimista) y mapa animado de la sociedad
 - Quién compra (edad y estrato), "voces" de los agentes y diagnóstico
 - Precio óptimo, cuánto invertir en publicidad (prueba, presupuesto recomendado, capital necesario y reglas para escalar o apagar) y comparativa de productos guardados
-- Buscador de productos ganadores con IA (al abrirlo en claude.ai), con búsqueda web real si conectas Parallel Search o Exa en claude.ai; prueba varios precios y combo y solo muestra los ganadores
+- Buscador de productos ganadores (al abrirlo en claude.ai con Parallel Search): revisa al menos 10.000 productos reales de Mercado Libre Colombia, los filtra, puntúa y simula, y solo muestra los ganadores
 - Archivo para importar la campaña de prueba en Meta Ads Manager, segmentada con los resultados
 - Ofertas: precio por 2 y 3 unidades y producto adicional (upsell), con ticket promedio y margen por pedido
 - Aprende de tus ventas reales: anotas los resultados de tus pruebas y corrige sus predicciones para los siguientes productos
